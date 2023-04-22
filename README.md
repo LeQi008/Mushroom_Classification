@@ -1,6 +1,8 @@
 # Mushroom_Classification Repository!
 ## About
-This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on classifying a mushroom's edibility based off its features. We used the the dataset titled [Mushroom Edibility Classification](https://www.kaggle.com/datasets/devzohaib/mushroom-edibility-classification?resource=download&select=secondary_data.csv). You may view the full notebook [here](https://github.com/LeQi008/Mushroom_Classification/blob/main/Mushroom_Classification.ipynb) Or you may view the source code in order from:
+This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on classifying a mushroom's edibility based off its features. We used the the dataset titled [Mushroom Edibility Classification](https://www.kaggle.com/datasets/devzohaib/mushroom-edibility-classification?resource=download&select=secondary_data.csv). You may view the full notebook [here.](https://github.com/LeQi008/Mushroom_Classification/blob/main/Mushroom_Classification.ipynb) 
+
+Or you may view the source code in order from:
 
 1. [Data Preparation & Cleaning](https://github.com/LeQi008/Mushroom_Classification/blob/main/1_Data_Preparation_%26_Cleaning.ipynb)
     1. Proper renaming of features
