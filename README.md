@@ -24,6 +24,9 @@ Or for the full notebook click [here](https://github.com/LeQi008/Mushroom_Classi
 - @shufang17 - Data Cleaning, Logistic Regression, Optimisation
 - @abigaildu - Data Cleaning, Naives Bayes, Optimisation
 
+## Motivation
+Mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popularity. It is a popular pasttime for people who enjoy searching for edible or medicinal mushrooms in the wild. Once a mushroom is collected, it needs to be properly identified and prepared before consumption. We therefore hope to create a model to help predict if a mushroom is edible.
+
 ## Problem Definition
 - We seek to understand the relationships between a mushroom's features and its edibility.
 - Are we then able to create a reliable model to predict if a mushroom is edible based of its features?
