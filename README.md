@@ -1,23 +1,24 @@
 # Mushroom_Classification Repository!
 ## About
-This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on classifying a mushroom's edibility based off its features. We used the the dataset titled [Mushroom Edibility Classification](https://www.kaggle.com/datasets/devzohaib/mushroom-edibility-classification?resource=download&select=secondary_data.csv). For a detailed walkthrough, please view the source code in order from:
-1. Data Preparation & Cleaning
+This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on classifying a mushroom's edibility based off its features. We used the the dataset titled [Mushroom Edibility Classification](https://www.kaggle.com/datasets/devzohaib/mushroom-edibility-classification?resource=download&select=secondary_data.csv). You may view the full notebook [here](https://github.com/LeQi008/Mushroom_Classification/blob/main/Mushroom_Classification.ipynb) Or you may view the source code in order from:
+
+1. [Data Preparation & Cleaning](https://github.com/LeQi008/Mushroom_Classification/blob/main/1_Data_Preparation_%26_Cleaning.ipynb)
     1. Proper renaming of features
     2. Dealing with NaN values
-2. Data Exploration and Visualisation
+2. [Data Exploration and Visualisation](https://github.com/LeQi008/Mushroom_Classification/blob/main/2_Data_Exploration_%26_Visualisation.ipynb)
     1. Numerical Variables
     2. Categorical Variables
     3. Cramer's V
-3. Machine Learning Models
+3. [Machine Learning Models](https://github.com/LeQi008/Mushroom_Classification/blob/main/3_Machine_Learning_Models.ipynb)
     1. Naives Bayes 
     2. Logistic Regression
     3. Decision Tree
-4. Optimisation
+4. [Optimisation](https://github.com/LeQi008/Mushroom_Classification/blob/main/4_Optimisation.ipynb)
     1. Feature Importance
     2. Support Vector Machines
     3. Hyperparameter Tuning
 
-Or for the full notebook click [here](https://github.com/LeQi008/Mushroom_Classification/blob/main/Mushroom_Classification.ipynb)
+
 
 ## Contributors
 - @LeQi008 - Data Cleaning, Data Exploration, Decision Tree, Optimisation
